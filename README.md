@@ -1,7 +1,11 @@
 # Домашнее задание к занятию «Redux Toolkit»
 ===
 
-[<button>GITHUB Pages</button>](https://BudTon.github.io/ra_toolkit/)
+<a href="https://BudTon.github.io/ra_toolkit/">
+  <button style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    GITHUB Pages
+  </button>
+</a>
 
 [![pages-build-deployment](https://github.com/BudTon/ra_toolkit/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/BudTon/ra_toolkit/actions/workflows/pages/pages-build-deployment)
 
