@@ -7,6 +7,8 @@
   </button>
 </a>
 
+<br><br/>
+
 [![pages-build-deployment](https://github.com/BudTon/ra_toolkit/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/BudTon/ra_toolkit/actions/workflows/pages/pages-build-deployment)
 
 ### Задание: Поиск фильмов по каталогу IMDb и добавление найденных фильмов в "Избранное"
